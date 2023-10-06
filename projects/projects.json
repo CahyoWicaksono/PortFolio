@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Mountain Climbing App",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "mountain",
+    "category": "android",
+    "links": {
+      "view": "https://www.figma.com/file/DQnIosj5VaRbUr7lXCzilw/Travel-App-UI-Kits-(Community)?type=design&t=mHKTG23G1CC5nD3G-6",
+      "design": "#"
+    }
+  },
+  {
+    "name": "Pandora'life Website",
+    "desc": "All in one Pandora'life website. Built using HTML, CSS and Javascript.",
+    "image": "avatar",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.figma.com/file/8tmbLifl0AHGhwzJlGDeCJ/Travel-website-(Community)?type=design&node-id=103%3A45&mode=design&t=x0xo5LjvN1OHt6ov-1",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Travell Site Tour",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "travell",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/newsbox-android"
+    }
+  },
+  {
+    "name": "Wonderfull Indonesia App",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "indonesia",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  },
+  {
+    "name": "Website Game Store",
+    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "image": "a game",
+    "category": "basicweb",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Logistic App",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "logistik",
+    "category": "android",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "Play Game Adventure",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "game2",
+    "category": "basicweb",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "Docter App",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "dokter",
+    "category": "android",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
+  {
+    "name": "Wonderful Indonesia Site",
+    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "frameindonesia",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+    }
+  },
+  {
+    "name": "Logistic Website",
+    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "logsite",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+    }
+  }
+]
